@@ -65,6 +65,7 @@ print("Variabel a=",a)
 print("Variabel b=",b)
 ```
 * cetak hasil operasi kedua variabel dengan string format
+
 `` print("Hasil Penggabungan {1}+{0}=%s".format(a,b) %(a+b))``
 * konversi nilai variabel 
 ``` python
